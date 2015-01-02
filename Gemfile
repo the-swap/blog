@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'therubyracer'
+
 group :development do
   gem 'rake', '~> 10.0'
   gem 'jekyll', '~> 2.0'
