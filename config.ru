@@ -22,4 +22,4 @@ class SinatraStaticServer < Sinatra::Base
 
 end
 
-# run SinatraStaticServer
+run SinatraStaticServer
