@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Updating"
+date: 2015-01-03 00:37:30 +0100
+comments: true
+categories: 
+---
+
+# Updating...
+
+  De nieuwe backend is praktisch klaar en het wordt tijd
+  dat we er eens voor gaan.  
+  Zo zullen we onze website uit de jaren 80 halen om stilletjesaan de jaren 90 in te gaan.  
+  We zijn zelf van plan om afbeeldingen te gebruiken!  Zot e.  
+
+### Mad skillz bro.
+
+  De oude versie van de website hebben wij nog draaien, maar deze is niet meer publiekelijk toegankelijk.  
+  Die gebruiken we vooral om mensen in [Gameswap HQ](/pages/gameswap-hq) te helpen.  
+  **Natuurlijk kan je nog je credits gebruiken en gaat er niks verloren!**
+
+
+  Zowel de website als de kassa software in de winkel gebruiken dezelfde software
+  op de achtergrond.  
+  Wat ervoor zorgt dat de aangekomen en verkochte producten in realtime op de website komen te staan,
+  maar het zorgt er ook voor dat updaten _a real pain in the ass is_.  
+  Om de website te kunnen updaten moet de backend dus eerst upgedate worden en
+  dat is wat ik nu probeer te doen.
+
+
+
+
+  Dit zal allemaal een tijdje in beslag nemen, via de site zullen we jullie zo goed mogelijk 
+  op de hoogte brengen.
+
+  De eerste stappen :
+
+    1. Nieuwe software in gebruik nemen in de winkel
+    2. Blog starten zodat jullie updates kunnen mee volgen
+    3. Kleine overwinning vieren/Stilletjes in een hoekje wenen
+
+
+Bedankt voor het geduld en de beste wensen voor het nieuwe jaar - [Aaiiit](https://twitter.com/aaiiit)  
+

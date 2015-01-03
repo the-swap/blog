@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.gameswap.be
-title: The Swap Blog
-subtitle: Blogging about The Swap
-author: The Swap
+url: http://www.gameswap.be/blog/
+title: Gameswap Blog
+subtitle: Blogging about Gameswap
+author: Aaiiit
 simple_search: https://www.google.com/search
 description:
   Blogging about updates to gameswap.be, news or other events.
@@ -28,7 +28,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /blog
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public/blog
 plugins: plugins
@@ -65,7 +65,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: Aaiiit
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
