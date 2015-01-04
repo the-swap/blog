@@ -35,3 +35,5 @@ Een beetje zoals mijn characters eruitzien in games.
 
 
 Cheers mate! - Aaiiit
+
+EDIT : Theme installed, gotta love Octopress.  Dit ziet er heel wat beter uit.
