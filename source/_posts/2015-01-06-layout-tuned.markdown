@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Layout tuning"
+title: "Layout tuned"
 date: 2015-01-06 12:29:18 +0100
 comments: true
 categories: 
