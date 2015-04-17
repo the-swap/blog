@@ -29,7 +29,8 @@ Heb je zelf een winkel/horeca zaak of ken je een zaak waar dit wel zou passen,
 laat ons dan zeker iets weten.  Hoe meer, hoe liever.
 
 
-**Bedankt voor de steun door de jaren heen.  We zien elkaar online!**
-
 Heb je nog vragen, dan kan je ons bereiken via administratie@gameswap.be
+
+
+**Bedankt voor de steun door de jaren heen.  We zien elkaar online!** - Aaiiit
 
